@@ -1,4 +1,3 @@
-#!/bin/bash
 set -e
 
 cd /Users/chouminkafertile/trippleten-4/
